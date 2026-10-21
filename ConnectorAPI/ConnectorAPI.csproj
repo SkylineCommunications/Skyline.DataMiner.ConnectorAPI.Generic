@@ -11,7 +11,7 @@
     <Company>Skyline Communications</Company>
     <PackageTags>Skyline;DataMiner</PackageTags>
     <PackageProjectUrl>https://skyline.be</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/SkylineCommunications/SLC-S-Generic-ConnectorAPI</RepositoryUrl>
+    <RepositoryUrl>https://github.com/SkylineCommunications/Skyline.DataMiner.ConnectorAPI.Generic</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReadmeFile>README.md</PackageReadmeFile>
 	<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
